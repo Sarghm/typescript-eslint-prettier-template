@@ -1,6 +1,6 @@
 # 🖥 TypeScript 4, ESLint & Prettier Project Template
 
-![Header Image](https://i.imgur.com/2k8eJLp.png)
+![Header Image](https://i.imgur.com/tCAQjV1.png)
 
 ## Summary
 
