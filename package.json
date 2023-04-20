@@ -19,7 +19,8 @@
     "typescript": "^5.0.4"
   },
   "scripts": {
-    "jest": "yarn node --experimental-vm-modules $(yarn bin jest)"
+    "jest": "yarn node --experimental-vm-modules $(yarn bin jest)",
+    "lint": "eslint ."
   },
   "type": "module",
   "packageManager": "yarn@4.0.0-rc.42"
